@@ -7,6 +7,9 @@ public class AopTest {
 	 */
 
 	public static void main(String[] args) {
+		//소스 추가
+		System.out.println("소스 추가");
+		
 		//성능 검사(시간 측정)
 		long beforeTime = System.currentTimeMillis();
         
